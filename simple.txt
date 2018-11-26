@@ -1,1 +1,2 @@
- this is the simple line project 
+ this is the simple line project
+ adding second line to simple project 
